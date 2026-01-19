@@ -261,18 +261,4 @@ UVIA v1.3 represents a viable alternative for specialized applications in Brazil
 
 [OpenAI, 2024] OpenAI. "GPT-4.1, GPT-5.2, and GPT-4.1 mini Technical Report." OpenAI Technical Reports (2024).
 
----
 
-¹ Laboratório IA Uvia SLM - Specialized in AI for Brazilian agriculture
-**Contact:** daniel@uvia.ai
-**Model:** UVIA v1.3 available on Ollama
-**Code:** https://github.com/uvia-br/UvIA1.3
-
----
-
-**This paper presents UVIA v1.3 as the absolute reference in Brazilian specialization for viticulture and enology, with comprehensive validation against state-of-the-art OpenAI models.**
-
-**Research Status**: ✅ **COMPLETE AND VALIDATED**
-**Publication Date**: January 2026
-**Relevance Score**: 9.2/10 (DeepEval)
-**Brazilian Expertise**: 10.0/10 (Perfect)
