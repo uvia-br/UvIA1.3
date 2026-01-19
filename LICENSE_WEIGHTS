@@ -1,0 +1,142 @@
+# LICENÇA DE USO DOS PESOS DO MODELO UVIA v1.3
+
+## UVIA Model Weights License v1.0
+
+**Data de Vigência:** Janeiro 2026
+**Licenciador:** Daniel Gandolfi (Laboratório IA Uvia SLM)
+**Modelo:** UVIA v1.3 - Modelo de Linguagem Especializado em Viticultura e Enologia Brasileiras
+
+---
+
+## 1. DEFINIÇÕES
+
+- **"Pesos do Modelo" ou "Pesos"**: Refere-se aos arquivos de pesos treinados do modelo UVIA v1.3, incluindo arquivos .safetensors, .bin, .gguf ou outros formatos de armazenamento de parâmetros do modelo.
+
+- **"Modelo Base"**: Refere-se ao modelo Qwen3-8B usado como base para o fine-tuning.
+
+- **"Licenciado" ou "Você"**: Qualquer pessoa física ou jurídica que utilize esta licença.
+
+- **"Inferência"**: O processo de usar o modelo para gerar respostas a partir de prompts, sem modificar os pesos.
+
+---
+
+## 2. CONCESSÃO DE LICENÇA
+
+### 2.1 Permissões Concedidas
+
+Sob os termos desta licença, o Licenciador concede ao Licenciado uma licença limitada, não exclusiva, intransferível e gratuita para:
+
+1. **Usar o modelo apenas para inferência**: Executar o modelo UVIA v1.3 para gerar respostas a partir de prompts.
+
+2. **Usar em aplicações comerciais e não-comerciais**: Incorporar o modelo em produtos, serviços ou aplicações comerciais ou pessoais.
+
+3. **Distribuir aplicações que utilizem o modelo**: Criar e distribuir software ou aplicações que utilizem o modelo para inferência.
+
+### 2.2 Limitações e Proibições
+
+É EXPRESSAMENTE PROIBIDO ao Licenciado:
+
+1. **Fine-tuning ou re-treinamento**: Qualquer forma de ajuste fino (fine-tuning), re-treinamento ou modificação dos pesos do modelo.
+
+2. **Criação de modelos derivados**: Criar novos modelos baseados nos pesos do UVIA v1.3, incluindo merging com outros modelos.
+
+3. **Modificação dos pesos**: Alterar, editar ou manipular os arquivos de pesos de qualquer forma.
+
+4. **Redistribuição de pesos modificados**: Compartilhar, distribuir ou publicar versões modificadas dos pesos.
+
+5. **Treinamento adicional**: Usar os pesos como ponto de partida para qualquer processo de treinamento.
+
+6. **Extração de conhecimento**: Tentar extrair ou copiar o conhecimento específico do modelo para outros sistemas.
+
+7. **Uso em treinamento de outros modelos**: Utilizar as saídas do modelo como dados de treinamento para outros sistemas de IA.
+
+---
+
+## 3. DIREITOS AUTORAIS E ATRIBUTOS
+
+### 3.1 Direitos Autorais
+- Os Pesos do Modelo são propriedade intelectual de Daniel Gandolfi.
+- O Modelo Base (Qwen3-8B) mantém os direitos autorais originais da Alibaba Group e seus colaboradores.
+- Esta licença não transfere propriedade intelectual sobre o modelo base.
+
+### 3.2 Atribuição Obrigatória
+Ao usar o modelo UVIA v1.3, você deve incluir a seguinte atribuição:
+```
+"UVIA v1.3 - Modelo desenvolvido por Daniel Gandolfi (Laboratório IA Uvia SLM)"
+```
+
+---
+
+## 4. RESPONSABILIDADES E LIMITAÇÕES
+
+### 4.1 "AS IS" - Sem Garantias
+O modelo UVIA v1.3 é fornecido "AS IS", sem garantias de qualquer tipo. O Licenciador não oferece garantias sobre:
+
+- Precisão das respostas geradas
+- Adequação para qualquer propósito específico
+- Ausência de erros ou bugs
+- Funcionamento contínuo ou ininterrupto
+- Segurança contra vulnerabilidades
+
+### 4.2 Limitação de Responsabilidade
+Em nenhuma circunstância o Licenciador será responsável por danos diretos, indiretos, incidentais, especiais ou consequenciais decorrentes do uso do modelo, incluindo, mas não se limitando a:
+
+- Perdas financeiras ou comerciais
+- Danos à reputação
+- Interrupção de negócios
+- Perda de dados ou informações
+
+### 4.3 Responsabilidade do Usuário
+O Licenciado assume total responsabilidade pelo uso do modelo e por quaisquer consequências decorrentes, incluindo:
+
+- Verificação da adequação para seus propósitos
+- Cumprimento de leis e regulamentações aplicáveis
+- Respeito aos direitos de terceiros
+- Uso ético e responsável da IA
+
+---
+
+## 5. VIOLAÇÃO DA LICENÇA
+
+### 5.1 Consequências
+Qualquer violação desta licença resultará em:
+- Revogação imediata da licença
+- Proibição de uso futuro do modelo
+- Possíveis ações legais por violação de direitos autorais
+
+### 5.2 Detecção e Monitoramento
+O Licenciador se reserva o direito de:
+- Monitorar o uso do modelo
+- Investigar suspeitas de violação
+- Exigir remoção de conteúdos derivados
+- Buscar reparação por danos causados
+
+---
+
+## 6. DISPOSIÇÕES GERAIS
+
+### 6.1 Vigência
+Esta licença entra em vigor na data de aceitação e permanece válida enquanto o Licenciado cumprir todos os termos.
+
+### 6.2 Lei Aplicável
+Esta licença é regida pelas leis brasileiras, com jurisdição exclusiva dos tribunais brasileiros.
+
+### 6.3 Modificações
+O Licenciador se reserva o direito de modificar esta licença. As modificações serão comunicadas aos usuários através do repositório oficial.
+
+### 6.4 Contato
+Para dúvidas sobre esta licença, entre em contato através do repositório oficial: https://github.com/uvia-br/UvIA1.3
+
+---
+
+## 7. TERMOS DE ACEITAÇÃO
+
+Ao baixar, usar ou distribuir os Pesos do Modelo UVIA v1.3, você automaticamente concorda com todos os termos desta licença. Se você não concordar com estes termos, não use o modelo.
+
+**Esta licença visa proteger o investimento em pesquisa e desenvolvimento do modelo UVIA, garantindo que o conhecimento especializado brasileiro seja usado de forma ética e responsável.**
+
+---
+
+**Licença criada por:** Daniel Gandolfi
+**Data de criação:** Janeiro 2026
+**Versão da licença:** 1.0
