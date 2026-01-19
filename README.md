@@ -1,7 +1,7 @@
 # UVIA v1.3: A Specialized Language Model for Brazilian Viticulture and Enology
 
 **Authors:** Daniel Gandolfi¹, Generative AI Advisor and Winemaker<br>
-**Institution:** Laboratório IA Uvia SLM¹<br>
+**Institution:** www.vinogandolfi.com.br / instagram.com.br/vinogandolfi
 **Date:** January 2026<br>
 **Model Version:** UVIA v1.3 (Rebalanced)
 
@@ -263,16 +263,3 @@ UVIA v1.3 represents a viable alternative for specialized applications in Brazil
 
 ---
 
-¹ Laboratório IA Uvia SLM - Specialized in AI for Brazilian agriculture
-**Contact:** daniel@uvia.ai
-**Model:** UVIA v1.3 available on Ollama
-**Code:** https://github.com/uvia-br/UvIA1.3
-
----
-
-**This paper presents UVIA v1.3 as the absolute reference in Brazilian specialization for viticulture and enology, with comprehensive validation against state-of-the-art OpenAI models.**
-
-**Research Status**: ✅ **COMPLETE AND VALIDATED**
-**Publication Date**: January 2026
-**Relevance Score**: 9.2/10 (DeepEval)
-**Brazilian Expertise**: 10.0/10 (Perfect)
