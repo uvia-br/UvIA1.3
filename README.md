@@ -1,7 +1,7 @@
 # UVIA v1.3: A Specialized Language Model for Brazilian Viticulture and Enology
 
 **Authors:** Daniel Gandolfi¹, Generative AI Advisor and Winemaker<br>
-**Institution:** www.vinogandolfi.com.br / instagram.com.br/vinogandolfi
+**Institution:** www.vinogandolfi.com.br / www.instagram.com.br/vinogandolfi
 **Date:** January 2026<br>
 **Model Version:** UVIA v1.3 (Rebalanced)
 
